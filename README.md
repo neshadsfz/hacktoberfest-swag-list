@@ -1,10 +1,16 @@
-# Hacktoberfest 2019 Swag List
+# Hacktoberfest 2021 Swag List
 
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
 
-This repo seeks to document all of the companies giving away swag for Hacktoberfest 2019 and how you can get your hands on some free gifts for your time and help.
+This repo seeks to document all of the companies giving away swag for Hacktoberfest 2021 and how you can get your hands on some free gifts for your time and help.
 
-See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the list!
+Right now, we're getting ready for Hacktoberfest 2021! Let's make this the best Hacktoberfest yet!
+
+## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a T-shirt will not be tolerated
+
+First, [sign up for Hacktoberfest 2021 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.digitalocean.com/faq).
+
+See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the List!
 
 ## Quick Jump To
 
@@ -13,318 +19,455 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ---
 
-## Swag List 2019
+## The 2021 Hacktoberfest Swag List is supported by Appwrite
+[![appwritelogo](/img/logo-1.svg)](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
 
-## The Original - **DigitalOcean/Dev.to**
+#### [Appwrite is an official sponsor of Hacktoberfest 2021 as well as the Hacktoberfest Swag List repository!](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+
+#### [Click here or their logo above to check out all of their unique swag for Hacktoberfest!](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+
+---
+
+## Swag List 2021
+
+### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests in any repository
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: All PRs count unless the repo has been marked spam, or the PR is marked as spam or invalid.
+- **Notes**: For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
 
 ## A to Z Order of Companies
 
 ### A
 
-#### **Accord Project**
+#### **Alpaca**
 
-- **Swag**: T-shirt, stickers
-- **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/), issues in those repos will be labeled different difficulty level (_Starter_, _Medium_, _Challenging_).
-  - 1 _Challenging_ or 2 _Medium_ or 5 _Starter_ accepted PRs: T-shirt and stickers
-  - 2 accepted PRs across any difficulty level: stickers
-- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
-- **Issues**: [#hacktoberfest](https://github.com/search?q=user%3Aaccordproject+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
-- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+- **Swag**: T-shirt
+- **Requirements**: At least 1 accepted pull request in any eligible repository under Alpaca for first 20 contributors only.
+- **How to sign up**: Once your PR is merged, then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
+- **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
+- **Notes**:
+  - Only first 20 contributors will be rewarded swag.
+  - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
-#### **Adobe**
+#### **Appsmith**
 
-- **Swag**: T-shirt, other swags
-- **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
-- **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
-- **Issues**: [adobe](https://github.com/search?q=user%3Aadobe+type:issue&state=open&type=Issues), [magento](https://github.com/search?q=user%3Amagento+type:issue&state=open&type=Issues)
-- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **Requirements**:
+  - 1 Merged PR -  Appsmith Stickers
+  - 2 Merged PRs - Appsmith Stickers, Water Bottle
+  - 3 Merged PRs - Appsmith Stickers, Water Bottle, Appsmith T-Shirt
+  - 4 Merged PRs - Appsmith Stickers, Water Bottle, Appsmith Hoodie
+  - 4 Merged PRs + - Appsmith Surprise Box
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available on their blog [here](https://hacktoberfest.appsmith.com/)
 
 #### **Appwrite**
 
-- **Swag**: Stickers, magnets, buttons
-- **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
-- **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
-- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
-- **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+- **Swag**: Limited Edition T-shirts, Stickers & Coffee Mugs!
+- **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
+  - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
+  - Swag Tiers
+    - **1 accepted PR**   - OG Appwrite Stickers
+    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
+    - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
+    - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
+- **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
+- **Notes**:
+  - For your PR to count it must be submitted to one of the eligible Appwrite repositories, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+    - The PR is approved by a maintainer OR
+    - The PR is merged by a maintainer
+  - A Blog post counts as **2 PRs**
+  - A Demo app counts as **2 PRs ( or more based on complexity )**
+  - A Tutorial counts as **2 PRs ( or more based on complexity )**
+- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
-#### **Aqua Security**
+#### **ArchivesSpace**
 
-- **Swag**: Stickers, t-shirts, books
+- **Swag**: ArchivesSpace swag bag
+- **Requirements**: Become top contributor on [ArchivesSpace](https://github.com/archivesspace/archivesspace) repo.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
+
+#### **AutoDL**
+
+- **Swag**: T-shirt, stickers, bonus swag
+- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL repositories](https://github.com/Auto-DL/Auto-DL).
+- **How to sign up**: Join AutoDL's [Slack](https://join.slack.com/t/autodl/shared_invite/zt-qagxiwub-ywRM_oBvvF~F7YNtlBqy_Q) Workspace and start contributing!
+- **Issues**: Check out the Issues at [Auto-DL/Auto-DL](https://github.com/Auto-DL/Auto-DL/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)!
+- **Notes**:
+  - For more details, read [this blog](https://dev.to/mctechie/autodl-celebrates-hacktoberfest-2021-25da)!
+  - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
+  - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
+
+### B
+
+#### **Bagisto**
+
+- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
+- **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**:
+  - Only those PRs are accepted which are marked with the 'Hacktoberfest' label and they have added difficulty level to each issue.
+  - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
+  - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) and check out their [swag tweet](https://twitter.com/BagistoShop/status/1447470920650477571).
+
+#### **Bridgecrew**
+
+- **Swag**: T-shirt, stickers
 - **Requirements**:
-  - 1 pull request: our superhero sticker pack.
-  - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
-  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
-- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
-- **Issues**: [aquasecurity](https://github.com/search?&q=user%3Aaquasecurity+type:issue&state=open&type=Issues)
-- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+  - Swag Tiers
+    - **1 accepted PR**   - super ghoul sticker pack
+    - **2+ accepted PRs**  - wicked Bridgecrew t-shirt + previous tier
+- **How to sign up**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+- **Notes**:
+  - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
+
+#### **Bitrise**
+
+- **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
+- **Requirements**:
+  - Contribute to [eligible repo](https://github.com/bitrise-steplib) during the month of October.
+  - Once all of your PRs have received the ```hacktoberfest-accepted``` label, fill out their form with links to your PRs and shipping details, so they can send you an amazing swag pack!
+- **Issues**:
+  - Bitrise engineers have selected a couple of open issues that are ideal for first-time contributors.
+  - They fall into the following categories:
+    - Bugfixes
+    - Performance or UI improvements
+    - Minor enhancements
+- **How to sign up**: Check out the [Bitrise Hacktoberfest 2021 website](https://www.bitrise.io/hacktoberfest-2021) for more details.
+- **Notes**:
+  - Contribute with four or more pull requests to any of our open issues labeled Hacktoberfest.
+  - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
+  - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
+
+#### **Boa Constrictor**
+
+- **Swag**: Stickers
+- **Requirements**: Complete 1 valid pull request to get stickers.
+- **How to sign up**: You will get a link where you can privately share your mailing address.
+- **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
+- **Notes**: For more details, read [this blog post](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
 
 ### C
 
-#### **CircleCI**
+#### **CAMUNDA**
 
-- **Swag**: T-shirt, sticker
-- **Requirements**:
-  - 1 - 3 pull requests: sticker
-  - 4+ pull requests: T-shirt
-- **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
-- **Issues**: [#orbtoberfest](https://github.com/search?&q=label%3Aorbtoberfest+type:issue&state=open&type=Issues)
-- **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
+- **Swag**: T-shirt, stickers
+- **Requirements**: 4 pull requests to any of the following repos: [bpmn.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
+- **Notes**:
+  - For your PR to count it must be:
+    - Submitted in a Camunda repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
+  - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-#### **Coding Blocks**
+#### **Codedamn**
 
-- **Swag**: T-shirt, stickers, bag
-- **Requirements**:
-  - 1+ merged pull requests: Stickers and T-shirt
-  - 5+ merged pull requests: Wildcraft bag
-- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
-- **Issues**: [coding-blocks](https://github.com/search?&q=user%3Acoding-blocks+type:issue&state=open&type=Issues)
-- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
+- **Swag**: T-shirt
+- **Requirements**:  1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
+- **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
+- **Notes**:
+  - Must complete the a project listed above, then submit the PR to their repo (in that order)
+  - The repository is not included in DigitalOcean Hacktoberfest, But Codedamn will send swag as promised.
+
+#### **CodeSee**
+
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
+- **How to sign up**: Check out the [OSS Port Hacktoberfest website](https://www.oss-port.com/swag/) for more details.
+- **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
+
+#### **Creative Tim**
+
+- **Swag**: T-shirt
+- **Requirements**:  4 approved pull requests in any projects listed on [Creative Tim's Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/)
+- **How to sign up**: Check out the [Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/) for participation details.
+- **Notes**: The winners will be decided by drawing lots on 1st November 2021 and announced through the [Twitter Post](https://twitter.com/CreativeTim/status/1445731588369621003/)
 
 ### D
 
+#### **DagsHub**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
+
 #### **Datenanfragen.de e. V.**
 
-- **Swag**: At least 3 stickers and maybe a T-shirt
-- **Requirements**:
-  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/open-source)
-  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
-  - T-shirts are given to 10 people drawn from the contributors
-- **How to sign up**: Submit to the repositories and send an [email to hacktoberfest@datenanfragen.de](mailto:hacktoberfest@datenanfragen.de?subject=Registration%20for%20Hacktoberfest%202019&body=I%20want%20to%20participate%20in%20the%20Hacktoberfest%202019%20event%20by%20Datenanfragen.de%20e.%20V.%0A%0AGitHub%20user%20name%3A%20%5Bplease%20fill-in%5D%0A%0AI%20have%20read%20the%20conditions%20of%20participation%20and%20privacy%20policy%20(https%3A%2F%2Fwww.datarequests.org%2Fblog%2Fhacktoberfest-2019)%20and%20accept%20these%20conditions.) before November 4, 2019 with your GitHub username and your acknowledgment of the terms.
+- **Swag**: At least 3 stickers and a webcam cover. T-shirt for the top contributors.
+- **Requirements**: 1 merged pull request in an [eligible repo](https://www.datarequests.org/blog/hacktoberfest-2021/#repos) to get at least 3 stickers and a webcam cover (limited to 100 sets). The 10 best contributions get a t-shirt in addition to that.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
-- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
-#### **Devfolio**
+#### **devICT**
 
-- **Swag**: T-shirt, stickers
-- **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION T-shirts!
-- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
-- **Issues**: [react-otp-input](https://github.com/devfolioco/react-otp-input/issues), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter/issues), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input/issues), [scrroll-in](https://github.com/devfolioco/scrroll-in/issues)
-- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+- **Swag**: Stickers
+- **Requirements**: Create two PRs in any of the qualifying Wichita repos
+- **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
+- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
+
+### E
+
+#### **Earthly**
+
+- **Swag**: Stickers (limit 40)
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8).
+- **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
 
 ### F
 
-#### **Flutterwave.com**
+#### **Flyte**
 
-- **Swag**: T-shirt
-- **Requirements**: Contribute two or more merged PRs to any of [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
-- **How to sign up**: Fill the [google form here](https://docs.google.com/forms/d/e/1FAIpQLScA4kb53bbkTvTUp7MOnfDNsBzjT2jVfwH0Vkd2XrEqL8r1ZQ/viewform), and create at least two merged pull requests to [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
-- **Notes**: See this tweet for their [official announcement](https://twitter.com/Ace_KYD/status/1183738026511519745)
+- **Swag**: T-Shirts, Mugs, Vouchers, Limited Edition "The North Face®" Jackets!
+- **Requirements**:
+  - 2 merged/accepted PRs: Flyte Mug
+  - 3 merged/accepted PRs or a video: Flyte T-Shirt
+  - Full-fledged integration or a blog: Voucher or "The North Face®" Flyte Jacket
+  - If your contribution adds value to Flyte heavily, they will customize your swag and add you as a Flyte contributor!
+- **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#hacktoberfest2021` channel if you have any questions.
+- **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
+- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
 
 ### G
 
-#### **Globo.com**
+#### **Globo**
 
 - **Swag**: T-shirt
-- **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
-- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
-- **Issues**: [#hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3Aclappr+user%3Afastlane-queue+user%3Agaleb+user%3Aglobocom+user%3Athumbor+user%3Atsuru)
-- **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
-
-### H
-
-#### **Hasura**
-
-- **Swag**: T-shirt, stickers
 - **Requirements**:
-  - Open pull request for any of Hasura open source projects: Sticker Pack
-  - One or more pull requests with Hacktoberfest label gets merged: T-shirt and Sticker Pack
-- **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
-- **Issues**: [graphql-engine](https://github.com/hasura/graphql-engine/issues), [learn-graphql](https://github.com/hasura/learn-graphql/issues)
-- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+  - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
-### J
+### K
 
-### **JabRef**
+#### **K6**
 
-- **Swag**: Sticker, T-shirt
-- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
-  - 1 merged pull request: sticker
-  - 5 merged pull requests: T-shirt
-- **How to sign up**: Provide shipping address, it not yet clarified how.
-- **Issues**: [jabref](https://github.com/search?&q=user%3Ajabref+type:issue&state=open&type=Issues)
-- **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
+- **Swag**: T-shirt, Stickers, Cap, Mug
+- **Requirements**: Merge one PR successfully to any of the K6 repositories will receive an [awesome swag pack](https://twitter.com/yusuftayman/status/1423203725229936648/photo/1)!
+- **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
+- **Notes**: Stocks are limited and are on a first come first serve basis only.
 
 ### L
 
-#### **LadybugTools**
-
-- **Swag**: Stickers
-- **Requirements**: Contribute 1 or more PRs to any [hacktoberfest labelled issues](https://github.com/orgs/ladybug-tools/projects/2).
-- **How to sign up**: LadyBug will get in contact with you through your PR.
-- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aladybug-tools+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
-- **Notes**: To get more information, see the [LadyBug blog post](https://discourse.ladybug.tools/t/celebrate-hacktoberfest-2019-with-ladybug-tools/7314)
-
-#### **LBRY**
-
-- **Swag**: Sticker, LBRY T-shirt*, and more
-- **Requirements**:
-  - Contribution anything at all will receive a LBRY sticker.
-  - Contributes anything of any substance* will receive a sticker, LBRY T-shirt, and more.
-- **How to sign up**: PR to LBRY repos.
-- **Issues**: [lbrycrd](https://github.com/lbryio/lbrycrd/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [lbry-sdk](https://github.com/lbryio/lbry-sdk/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [lbry-desktop](https://github.com/lbryio/lbry-desktop/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [lbry-android](https://github.com/lbryio/lbry-android/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
-
-#### **Les-Tilleuls.coop**
+#### **LoginRadius**
 
 - **Swag**: T-shirt
-- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
-- **How to sign up**: Complete 3 PRs and [sign up here](https://cooptilleuls.typeform.com/to/CG0pLd).
-- **Issues**: [api-platform](https://github.com/search?&q=user%3Aapi-platform+type:issue&state=open&type=Issues)
-- **Notes**: See this announcement from [the company's website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
+
+#### **Legesher**
+
+- **Swag**: Handwritten Letter, Special edition Stickers
+- **Requirements**: Contribute to a Legesher repository
+- **How to sign up**: No additional sign up required
+- **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
+- **Notes**: For more deatils, read [this](https://github.com/legesher/legesher/issues/90)
 
 ### M
 
-#### **MayaData**
+#### **Mattermost**
 
-- **Swag**: Stickers, T-shirt, laptop
-- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
-- **How to sign up**: Not clarified by now.
-- **Issues**: [openebs](https://github.com/openebs/openebs/labels/Hacktoberfest), [litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
-- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
+- **Swag**: Custom mechanical keyboard, Limited edition stickers
+- **Requirements**:
+  - 1+ contributions to the Mattermost community: Limited edition stickers
+  - Top contributors: Custom mechanical keyboard
+- **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **MayaData & OpenEBS**
+
+- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
+- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **How to sign up**: No additional sign up is required.
+- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
+
+#### **Medusa**
+
+- **Swag**: Medusa sticker, Medusa t-shirt, hoodie.
+- **Requirements**: Contribute to [open hacktoberfest issues](https://github.com/medusajs).
+  - Swag Tiers
+    - One pull request = Medusa sticker
+    - Three pull requests = Medusa t-shirt
+    - Build a Plugin (issues labeled with plugin) = Complete Medusa pack (t-shirt, hoodie, sticker)
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
+
+#### **MeiliSearch**
+
+- **Swag**: reusable insulated water bottle, stickers
+- **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
+- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
+- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+
+#### **Milvus**
+
+- **Swag**: drone, stickers pack, t-shirt, keyboard
+- **Requirements**:
+  - 1 merged PR to receive a sticker pack & a digital Milvus contributor badge.
+  - 2+ merged PRs to receive a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
+  - A Logitech Pro X Keyboard and a physical Hacktoberfest badge if recognized as Top Contributor (Best Quality PR).
+  - A DJI Drone if you complete at least 1 PR merged with the issue tagged #advanced and is awarded the Grand Prize (Most Difficult PR).
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details
+
+#### **MindsDB**
+
+- **Swag**: t-shirt, stickers, laptop
+- **Requirements**: Contribute with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest.
+  - Documentation PR [1 point]
+  - Data-sets to public suite PR [1 point]
+  - Tutorials PR [3 points]
+  - Data sources integrations PR [5 points]
+  - API optimization PR [5 points]
+- **How to sign up**: Check out the [official website](https://mindsdb.com/hacktoberfest/).
+- **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: Check out the [official website](https://mindsdb.com/hacktoberfest/) for more info.
+
+### N
+
+#### **NativeScript**
+
+- **Swag**: Shirts, Socks, Stress balls, bottle openers and more
+- **Requirements**: Contribution can be in any of these forms:
+  - Create a repo of anything you find fun or neat about NativeScript (small or large).
+  - Create a video showing off your NativeScript skills.
+  - Post a PR for an issue in any [NativeScript Repository](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+  - Share a gist of neat NativeScript code you find useful.
+  - Create a NativeScript plugin.
+- **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
+- **Issues**: For making PR's check these [Native Script Hacktoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+- **Notes**: Sending swags all around the world. To know more check [NativeScript Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html)
+
+#### NMF.earth
+
+- **Swag**: Stickers
+- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) fixing an Issue tagged with ```Stickers``` and get a free set of three stickers.
+- **How to sign up**: Direct communication with project maintainer
+- **Issues**: Check [the repo](https://github.com/NMF-earth/nmf-app/issues)
+- **Notes**: Project maintainers are working on this project in their free time, as explained [here](https://medium.com/@nmf_earth/hacktoberfest-2021-carbon-diary-sustainable-guide-32fb4e5323c1)
 
 ### O
 
-#### **Operation Code**
+#### **Ory**
 
-- **Swag**: Stickers, T-shirt.
-- **Requirements**: Resolve 3 issues (for the T-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
-- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
-- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3AOperationCode+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
-- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
-
-#### **Opsdroid**
-
-- **Swag**: Limited-edition stickers
-- **Requirements**: Any contribution to [Opsdroid](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **How to sign up**: Not clarified by now.
-- **Issues**: [#hacktoberfest](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **Notes**: See the [blog post](https://medium.com/opsdroid/hacktoberfest-2019-ec0e4b4960b9/) for more information.
+- **Swag**: T-shirt
+- **Requirements**: Make 1 successful PR to an [Ory repo](https://github.com/ory) and get a free T-shirt.
+- **How to sign up**: Check out the [Ory Corp tweet](https://twitter.com/OryCorp/status/1445036792374247425) for more details.
+- **Notes**: Check out the Hacktoberfest topic in [Ory repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3AOry&type=Repositories)
 
 ### P
 
-#### **Parity**
+#### **PayPal**
 
-- **Swag**: Gym bag
-- **Requirements**: Finish any of the projects or submit 4 PRs for issues tagged with hacktoberfest.
-- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
-- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aparitytech+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
-- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
-
-#### **Python Discord**
-
-- **Swag**: T-shirt or a 1 year JetBrains product license
-- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest T-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
-- **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
-- **Issues**: [python-discord](https://github.com/search?&q=user%3Apython-discord+type:issue&state=open&type=Issues)
-- **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
-
-### Q
-
-#### **QMK**
-
-- **Swag**: T-shirt, keyboard
-- **Requirements**: Requirements are listed on their [Hacktoberfest site](https://hacktoberfest.qmk.fm/)
-- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
-- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aqmk+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
-- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
+- **Swag**: PayPal socks, TimBuk2 Parkside Backpack
+- **Requirements**:
+  - 1+ contributions to [PayPal open source](https://github.com/paypal) (first 20 contributors): PayPal socks
+  - 1 randomly selected contributor will get a backpack
+- **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
+- **Issues**: Check the [repos list](https://github.com/paypal/hacktoberfest#repos) on the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page
+- **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
 
 ### S
 
-#### **Saleor**
+#### **Stack Builders**
 
-- **Swag**: Saleor Socks
-- **Requirements**: Participate and [solve any issues](https://github.com/mirumee/saleor/labels/hacktoberfest) added during the month of Hacktoberfest.
-- **How to sign up**: No signup link given at this time.
-- **Issues**: [saleor](https://github.com/mirumee/saleor/labels/hacktoberfest)
-- **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
-
-#### **SalesAgility**
-
-- **Swag**: Mug
-- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
-- **How to sign up**: Not clarified by now.
-- **Issues**: [suitecrm](https://github.com/salesagility/SuiteCRM/issues), [suitedocs](https://github.com/salesagility/SuiteDocs/issues), [suitecrm-portal-joomla](https://github.com/salesagility/SuiteCRM-Portal-Joomla/issues)
-- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
-
-#### **SAP**
-
-- **Swag**: Book from [SAP Press](https://www.sap-press.com)
-- **Requirements**: The highest number of reviewed pull requests to [any of the repositories](https://github.com/search?q=state:open+type:issue+language:abap) written in [Advanced Business Application Programming (ABAP)](https://en.wikipedia.org/wiki/ABAP).
-- **How to sign up**: Not yet clarified
-- **Issues**: [language:abap](https://github.com/search?&q=type:issue+language:abap&state=open&type=Issues)
-- **Notes**: More details in [their blog post](https://blogs.sap.com/2019/10/04/lets-code-share-and-learn.-calling-abapers-to-next-edition-of-hacktoberfest/).
-
-#### **Sense/Net**
-
-- **Swag**: T-shirt (first 100 participants)
-- **Requirements**: The first 100 participants who make a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
-- **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
-- **Issues**: [sensenet](https://github.com/search?&q=user%3ASenseNet+type:issue&state=open&type=Issues)
-- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
-
-#### **Software Mansion**
-
-- **Swag**: Stickers, socks, entry discount code for [App.js Conf](https://appjs.co), notebook, t-shirt
+- **Swag**: Amazon Gift Cards
 - **Requirements**:
-  - Stickers and socks: Solve an issue marked "Hacktoberfest" in [React Navigation Repositories](https://github.com/react-navigation).
-  - 30% entry discount code for [App.js Conf](https://appjs.co), stickers and socks: Solve an issue labeled "Hacktoberfest" and "level: advanced" in [React Navigation Repositories](https://github.com/react-navigation).
-  - Stickers, [App.js Conf](https://appjs.co) discount code, notebook or t-shirt (possibly all four of these): If you do anything else which is recognized as important.
-- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation) solving issues labeled "Hacktoberfest"
-- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Areact-navigation+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
-- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
+  Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
+  - 1pt for each issue opened
+  - 2pts for each PR opened
+  - 5pts for successful PR merge by the maintainers
+  - After completing PR fill the required form [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
+- **How to sign up**: Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
+- **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
+- **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
-#### **Strawberry**
+#### **Supabase**
 
-- **Swag**: Strawberry Sticker
-- **Requirements**: Make a successful PR to the [Strawberry organization on GitHub](https://github.com/strawberry-graphql/strawberry) between October 1 and October 31.
-- **How to sign up**: Sign up to the Hacktoberfest site and make a successful PR to Strawberry project.
-- **Issues**: [#hacktoberfest](https://github.com/strawberry-graphql/strawberry/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AHacktoberfest)
-- **Notes**:  See their [twitter post](https://twitter.com/patrick91/status/1178952690300272640?s=19). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+- **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of their supabase-community projects that have the Hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
+#### **Switchblade**
+
+- **Swag**: Stickers, Letter of Contribution
+- **Requirements**:  Three or more open and valid pull requests to the repository.
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
+
+#### **StepZen**
+
+- **Swag**: Stickers
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
+
+#### **Symbl.ai**
+
+- **Swag**: Stickers, T-shirts.
+- **Requirements**:  Three or more open and valid pull requests to the repository.
+- **How to sign up**: No additional sign-up is required. You can join our [devrel slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel
+- **Issues**:
+  - Symbl.ai [docs](https://github.com/symblai/symbl-docs/issues)
+  - Symbl.ai [Symbl-powered-Agora-RTE-app](https://github.com/symblai/Symbl-powered-Agora-RTE-app/issues)
+  - Symbl.ai [symbl-twilio-video-react](https://github.com/symblai/symbl-twilio-video-react/issues)
+- **Notes**:
+  - PR should be merged for acceptance in both cases
+  - Details regarding swags and rules of the event are listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
 ### T
 
-#### **Twilio**
+#### **ToolJet**
 
-- **Swag**: Stickers, socks
-- **Requirements**: Get one pull request merged into any project on [twilio-labs](https://github.com/twilio-labs) to win a collection of stickers or contribute to two or more pull requests to earn a pair of Twilio socks.
-- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
-- **Issues**: [twilio-labs](https://github.com/search?&q=user%3Atwilio-labs+type:issue&state=open&type=Issues)
-- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **Requirements**:
+  - 1 valid PR for ToolJet stickers and T-shirt
+  - 3 valid PRs for ToolJet stickers, T-shirt, water bottle
+  - 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle
+  - Top contributors: Special prizes
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
-### U
+### Z
 
-#### **Uno Platform**
+#### **Zup**
 
-- **Swag**: T-shirt
-- **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
-- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u).
-- **Issues**: [unoplatform](https://github.com/search?&q=user%3Aunoplatform+type:issue&state=open&type=Issues)
-- **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
-
-### V
-
-#### **Valor Software**
-
-- **Swag**: Pen, sticker, notepad, wooden phone stand
-- **Requirements**: Create at least one (for a pen and a sticker), three (for a notepad or a wooden phone stand) or five (for the full kit : A pen, a sticker. a notepad, and a wooden phone stand) pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
-- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
-- **Issues**: [#hacktoberfest](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
-- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
-
-### X
-
-#### **Xamarin**
-
-- **Swag**: Stickers, T-Shirt, trophy (eligible to win - only 10 trophies available).
-- **Requirements**: 1 pull request for the stickers, 4 pull requests for a T-shirt, 10 pull requests to be eligible to win a trophy.
-- **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
-- **Issues**: [xamarin](https://github.com/search?&q=user%3Axamarin+type:issue&state=open&type=Issues)
-- **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
+- **Swag**: T-Shirt
+- **Requirements**: Track your contributions to ensure 2 pull requests are accepted in one of the projects.
+- **How to sign up**: Submit your PRs to Zup's Open Source projects' issues. For Zup projects, upon approval of the PRs you will receive a form and can request the shirt if you already have 2 pull requests approved in one of the Zup projects: Charles CD, Ritchie CLI, Beagle or Horusec.
+- **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
+- **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
 
 ---
 
@@ -332,376 +475,553 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
-#### **Aqua Security (Stickers pack)**
+#### **Appwrite** (Stickers)
 
-- **Requirements**:
-  - 1 pull request: our superhero sticker pack.
-- **Swag**: Stickers pack
-- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
-- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+- **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
+  - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
+  - Swag Tiers
+    - **1 accepted PR**   - OG Appwrite Stickers
+- **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
+- **Notes**:
+  - For your PR to count it must be submitted to one of the eligible Appwrite repositories, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+    - The PR is approved by a maintainer OR
+    - The PR is merged by a maintainer
+  - A Blog post counts as **2 PRs**
+  - A Demo app counts as **2 PRs ( or more based on complexity )**
+  - A Tutorial counts as **2 PRs ( or more based on complexity )**
+- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
-#### **CircleCI** (Sticker)
+#### **Boa Constrictor** (Stickers)
 
-- **Requirements**:
-  - 1 - 3 pull requests (to "orbs").
-- **Swag**: Sticker.
-- **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
-- **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
-
-#### **Hasura** (Sticker Pack)
-
-- **Requirements**: Open pull request for any of Hasura open source projects: Sticker Pack
-- **Swag**: Sticker Pack
-- **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
-- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
-
-#### **LadybugTools** (Stickers)
-
-- **Requirements**: Contribute 1 or more PRs to any [hacktoberfest labelled issues](https://github.com/orgs/ladybug-tools/projects/2).
 - **Swag**: Stickers
-- **How to sign up**: LadyBug will get in contact with you through your PR.
-- **Notes**: To get more information, see the [LadyBug blog post](https://discourse.ladybug.tools/t/celebrate-hacktoberfest-2019-with-ladybug-tools/7314)
+- **Requirements**: Complete 1 valid pull request to get stickers.
+- **How to sign up**: You will get a link where you can privately share your mailing address.
+- **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
+- **Notes**: For more details, read [this blog post](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
 
-#### **LBRY** (Sticker, LBRY T-shirt*, and more)
+#### **Bridgecrew** (Stickers)
 
-- **Requirements**:
-  - Contribution anything at all will receive a LBRY sticker.
-  - Contributes anything of any substance* will receive a sticker, LBRY T-shirt, and more.
-- **Swag**: Sticker, LBRY T-shirt*, and more
-- **How to sign up**: PR to LBRY repos.
-- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
+- **Requirements**: Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+- **Swag**: stickers
+  - **1 PR**   - super ghoul sticker pack
+- **How to sign up**: - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
+- **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
 
-#### **Opsdroid** (Limited-edition stickers)
+#### **Legesher** (Handwritten Letter, Special Edition Stickers)
 
-- **Requirements**: Any contribution to [Opsdroid](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **Swag**: Limited-edition stickers
-- **How to sign up**: Not clarified by now.
-- **Notes**: See the [blog post](https://medium.com/opsdroid/hacktoberfest-2019-ec0e4b4960b9/) for more information.
+- **Requirements**: Contribute to a [Legesher repository](https://github.com/orgs/legesher/repositories)
+- **Swag**: Handwritten Letter, Special Edition Stickers
+- **How to sign up**: No additional sign up required
+- **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
+- **Notes**: For more details, refer [here](https://github.com/legesher/legesher/issues/90)
 
-#### **Sense/Net** (T-shirt)
+#### **Mattermost** (Stickers)
 
-- **Requirements**: The first 100 participants who make a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
-- **Swag**: T-shirt (first 100 participants)
-- **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
-- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
-
-#### **Valor Software** (Pen, sticker)
-
-- **Requirements**:
-    -Pen, sticker: Create one pull request to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
-- **Swag**: Pen, sticker
-- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
-- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
-
-#### **Xamarin (Stickers)**
-
-- **Requirements**:
-  -Stickers: Submit 1 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
-- **Swag**: Stickers
-- **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
-- **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
-
+- **Requirements**: 1+ contributions to the Mattermost community
+- **Swag**: Limited edition stickers
+- **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ### 1 Merged PR
 
-#### **Accord Project** (T-shirt, stickers)
+#### **Alpaca** (T-shirt)
 
-- **Requirements**: There are several ways to earn a shirt, including:
-  - 1 accepted _Difficulty: Challenging_ PR
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
-- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
-
-#### **Appwrite** (Stickers, magnets, buttons)
-
-- **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
-- **Swag**: Stickers, magnets, buttons
-- **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
-- **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
-
-#### **Coding Blocks** (T-shirt, stickers)
-
-- **Requirements**:
-  - 1+ merged pull requests: T-shirt, stickers
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
-- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
-
-#### **Datenanfragen.de e. V.** (Stickers, T-shirt)
-
-- **Requirements**:
-  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/open-source)
-  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
-  - T-shirts are given to 10 people drawn from the contributors
-- **Swag**: At least 3 stickers and maybe a T-shirt
-- **How to sign up**: Submit to the repositories and send an [email to hacktoberfest@datenanfragen.de](mailto:hacktoberfest@datenanfragen.de?subject=Registration%20for%20Hacktoberfest%202019&body=I%20want%20to%20participate%20in%20the%20Hacktoberfest%202019%20event%20by%20Datenanfragen.de%20e.%20V.%0A%0AGitHub%20user%20name%3A%20%5Bplease%20fill-in%5D%0A%0AI%20have%20read%20the%20conditions%20of%20participation%20and%20privacy%20policy%20(https%3A%2F%2Fwww.datarequests.org%2Fblog%2Fhacktoberfest-2019)%20and%20accept%20these%20conditions.) before November 4, 2019 with your GitHub username and your acknowledgment of the terms.
-- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
-
-#### **Globo.com** (T-shirt)
-
-- **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
+- **Requirements**: At least 1 accepted pull request in any eligible repository under Alpaca for first 20 contributors only.
 - **Swag**: T-shirt
-- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
-- **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
+- **How to sign up**: Once your PR is merged, then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
+- **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
+- **Notes**:
+  - Only first 20 contributors will be rewarded swag.
+  - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
+#### **Appsmith** (Stickers)
 
-#### **Hasura** (T-shirt, stickers)
-
-- **Requirements**: Create one or more pull requests with Hacktoberfest label gets merged.
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
-- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
-
-#### **JabRef** (Sticker)
-
-- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
-- **Swag**: Sticker
-- **How to sign up**: Provide shipping address, it not yet clarified how.
-- **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
-
-#### **MayaData** (Stickers, T-shirt)
-
-- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a laptop.
-- **Swag**: Stickers, T-shirt
-- **How to sign up**: Not clarified by now.
-- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
-
-#### **Saleor (Socks)**
-
-- **Requirements**: Participate and [solve any issues](https://github.com/mirumee/saleor/issues) added during the month of Hacktoberfest.
-- **Swag**: Saleor Socks
-- **How to sign up**: No signup link given at this time.
-- **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
-
-#### **SalesAgility** (Mug)
-
-- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
-- **Swag**: Mug
-- **How to sign up**: Not clarified by now.
-- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
-
-#### **Software Mansion** (Stickers, socks and App.js Conf discount code)
-
-- **Requirements**:
-  - Stickers and socks: Solve an issue labeled "Hacktoberfest" in [React Navigation Repositories](https://github.com/react-navigation).
-  - 30% entry discount code for [App.js Conf](https://appjs.co), stickers and socks: Solve an issue labeled "Hacktoberfest" and "level: advanced" in [React Navigation Repositories](https://github.com/react-navigation).
-- **Swag**: Stickers, socks, App.js Conf discount code
-- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation) solving issues labeled "Hacktoberfest"
-- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
-
-#### **Strawberry (Sticker)**
-
-- **Requirements**: Make a successful PR to the [Strawberry organization on GitHub](https://github.com/strawberry-graphql/strawberry) between October 1 and October 31.
-- **Swag**: Strawberry Sticker
-- **How to sign up**: Sign up to the Hacktoberfest site and make a successful PR to Strawberry project.
-- **Notes**:  See their [twitter post](https://twitter.com/patrick91/status/1178952690300272640?s=19). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
-
-#### **Twilio** (Stickers)
-
-- **Requirements**: One pull requests merged into any project on [twilio-labs](https://github.com/twilio-labs) .
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 1 merged PR: Stickers
 - **Swag**: Stickers
-- **How to sign up**: Sign up to GitHub, Make pull request as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
-- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
-#### **Uno Platform** (T-shirt)
+#### **Codedamn** (T-shirt)
 
-- **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
+- **Requirements**: 1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
 - **Swag**: T-shirt
-- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u).
-- **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
+- **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
+- **Notes**:
+  - Must complete the a project listed above, then submit the PR to their repo (in that order)
+  - The repository is not included in DigitalOcean Hacktoberfest, But Codedamn will send swag as promised.
+
+#### **Datenanfragen.de e. V.** (stickers, webcam cover)
+
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
+  - 1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).
+- **Swag**: At least 3 stickers and a webcam cover; maybe a t-shirt (see below).
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
+
+#### **Earthly** (Stickers)
+
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **Swag**: Stickers
+- **How to sign up**: Complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8). All PRs that are contributing value will get an Earthly sticker!
+- **Issues**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
+
+#### **Globo** (T-shirt, Brazil only)
+
+- **Requirements**:
+  - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: T-shirt
+- **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **K6** (t-shirt, stickers, cup, mug)
+
+- **Requirements**: Contributors who merge one PR successfully to any of the K6 repositories will receive [an awesome swag pack](https://twitter.com/yusuftayman/status/1423203725229936648/photo/1)!
+- **Swag**: T-shirt, Stickers, Cap, Mug
+- **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
+- **Notes**: Stocks are limited and are on a first come first serve basis only.
+
+#### **MayaData & OpenEBS** (T-Shirt, stickers)
+
+- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Swag**: Special Edition T-Shirts, Stickers.
+- **How to sign up**: No additional sign up is required.
+- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
+
+#### **Medusa** (stickers)
+
+- **Requirements**: One pull request
+- **Swag**: Medusa sticker.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), their [Discord](https://discord.com/invite/PGhCdgEP), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) for more details.
+
+#### **LoginRadius** (T-shirt)
+
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **Swag**: T-shirt
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
+
+#### **Milvus** (sticker pack, a digital Milvus badge)
+
+- **Requirements**:
+  - Contribute to the eligible repos: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: sticker pack, a digital Milvus contributor badge.
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Notes**: - Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
+#### **NativeScript** (Shirts, Socks, Stress balls, bottle openers)
+
+- **Requirements**: Contribution can be in any of these forms:
+  - Create a repo of anything you find fun or neat about NativeScript (small or large).
+  - Create a video showing off your NativeScript skills.
+  - Post a PR for an issue in any [NativeScript's Repository](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+  - Share a gist of neat NativeScript code you find useful.
+  - Create a NativeScript plugin.
+- **Swag**: Shirts, Socks, Stress balls, bottle openers and more
+- **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
+- **Issues**: For making PR's check these [Native Script Hacktoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+- **Notes**: To know more check [NativeScript's Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html).
+
+#### NMF.earth (Stickers)
+
+- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) fixing an Issue tagged with ```Stickers``` and get a free set of three stickers.
+- **Swag**: 3 stickers
+- **How to sign up**: Direct communication with project maintainer
+- **Issues**: Check [the repo](https://github.com/NMF-earth/nmf-app/issues)
+- **Notes**: Project maintainers are working on this project in their free time, as explained [here](https://medium.com/@nmf_earth/hacktoberfest-2021-carbon-diary-sustainable-guide-32fb4e5323c1)
+
+#### **Ory** (t-shirt)
+
+- **Requirements**: Make 1 successful PR to an [Ory repo](https://github.com/ory) and get a free T-shirt.
+- **Swag**: T-shirt
+- **How to sign up**: Check out the [Ory Corp tweet](https://twitter.com/OryCorp/status/1445036792374247425) for more details.
+- **Notes**: Check out the Hacktoberfest topic in [Ory repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3AOry&type=Repositories)
+
+#### **PayPal** (socks, backpack)
+
+- **Requirements**: 1 approved pull request for a "hacktoberfest" issue in one of [PayPal's repos](https://github.com/paypal)
+- **Swag**: PayPal socks, TimBuk2 Parkside Backpack (socks limited to first 20 contributors, one random contributor gets a backpack)
+- **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
+- **Issues**: [Hacktoberfest repos/issues](https://github.com/paypal/hacktoberfest#repos)
+- **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
+
+#### **Stack Builders** (Amazon Gift Card)
+
+- **Requirements**: Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
+- **Swag**: Amazon Gift Cards
+  - 100$
+  - 75$
+  - 50$
+- **How to sign up**:
+  - Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
+  - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
+
+- **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
+
+#### **StepZen** (stickers)
+
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **Swag**: Stickers
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
+
+#### **Symbl.ai** (Stickers)
+
+- **Requirements**: Anyone who creates a new issue, works on existing issues, raises a PR or contributes to the documentation.
+- **Swag**: Stickers
+- **How to sign up**: Register for Hacktoberfest, join the [Slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel, and contribute through GitHub.
+- **Issues**:
+  - Symbl.ai [docs](https://github.com/symblai/symbl-docs/issues)
+  - Symbl.ai [Symbl-powered-Agora-RTE-app](https://github.com/symblai/Symbl-powered-Agora-RTE-app/issues)
+  - Symbl.ai [symbl-twilio-video-react](https://github.com/symblai/symbl-twilio-video-react/issues)
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
+  - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
+
+#### **ToolJet** (ToolJet stickers and t-shirt)
+
+- **Requirements**:
+  - 1 valid PR for ToolJet stickers and t-shirt
+- **Swag**: t-shirt, stickers
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### 2 or more PRs
 
-#### **Aqua Security** (Stickers pack, t-shirt)
+#### **Appwrite** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
+
+- **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
+  - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
+  - Swag Tiers
+    - **1 accepted PR**   - OG Appwrite Stickers
+    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
+    - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
+    - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
+- **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
+- **Notes**:
+  - For your PR to count it must be submitted to one of the eligible Appwrite repositories, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+    - The PR is approved by a maintainer OR
+    - The PR is merged by a maintainer
+  - A Blog post counts as **2 PRs**
+  - A Demo app counts as **2 PRs ( or more based on complexity )**
+  - A Tutorial counts as **2 PRs ( or more based on complexity )**
+- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
+
+#### **Bridgecrew** (T-shirt, stickers)
+
+- **Requirements**: Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+- **Swag**
+  - **2+ accepted PRs** - wicked Bridgecrew t-shirt + previous tier
+- **How to sign up**: Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
+- **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+
+#### **CAMUNDA** (T-shirt, stickers)
+
+- **Requirements**: 4 pull requests to any of the following repos: [bpmn.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **Swag**: T-shirt, stickers
+- **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
+- **Notes**:
+  - For your PR to count it must be:
+    - Submitted in a Camunda repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
+  - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
+
+#### **DagsHub** (Stickers)
 
 - **Requirements**:
-  - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
-- **Swag**: Stickers pack and t-shirt.
-- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
-- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+  - Stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **Swag**: T-Shirt, Stickers
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
-#### **Aqua Security** (stickers pack, t-shirt, book)
+#### **devICT** (stickers)
 
-- **Requirements**:
-  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
-- **Swag**: Stickers pack, t-shirt, and book.
-- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
-- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+- **Requirements**: Create two PRs in any of the qualifying Wichita repos
+- **Swag**: Stickers
+- **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
+- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
-#### **CircleCI** (T-shirt)
+### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
-- **Requirements**:
-  - 4+ pull requests (to "orbs").
-- **Swag**: T-shirt.
-- **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
-- **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
+- **Swag**: T-shirt, stickers
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+- **Notes**: For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
 
-#### **Les-Tilleuls.coop** (T-shirt)
+#### **Switchblade** (Stickers, Letter of Contribution)
 
-- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
-- **Swag**: T-shirt
-- **How to sign up**: Complete 3 PRs and [sign up here](https://cooptilleuls.typeform.com/to/CG0pLd).
-- **Notes**: See this announcement from [the company's website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
-
-#### **QMK** (T-shirt, keyboard)
-
-- **Requirements**: Requirements are listed on their [Hacktoberfest site](https://hacktoberfest.qmk.fm/)
-- **Swag**: T-shirt, keyboard
-- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
-- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
-
-#### **Twilio** (Stickers, socks)
-
-- **Requirements**: Two or more pull requests into any project on [twilio-labs](https://github.com/twilio-labs).
-- **Swag**: Stickers, socks
-- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
-- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
-
-#### **Valor Software** (Notepad or wooden phone stand)
-
-- **Requirements**:
-  - Notepad or wooden phone stand: Create three pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
-- **Swag**: Notepad or wooden phone stand
-- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
-- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
-
-#### **Xamarin (Stickers and T-shirt)**
-
-- **Requirements**:
-  -Stickers and T-shirt: Submit 4 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
-- **Swag**: Stickers and T-Shirt
-- **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
-- **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
-
+- **Requirements**:  Three or more open and valid pull requests to the repository
+- **Swag**: Stickers, Letter of Contribution
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
 
 ### 2 or more Merged PRs
 
-#### **Accord Project** (Stickers)
+#### **Appsmith** (Stickers, Water Bottle, T-Shirt)
 
-- **Requirements**: 2 accepted pull requests across any difficulty
-- **Swag**: Stickers
-- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
-- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+- **Requirements**: Create two or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 2+ merged PR: Stickers, Water Bottle, T-Shirt
+- **Swag**: Appsmith Stickers, Water Bottle, Appsmith T-Shirt
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
-#### **Accord Project** (T-shirt, stickers)
+#### **Bagisto** (t-shirt, stickers, notebook, pen, and elephant)
 
-- **Requirements**: There are several ways to earn a shirt, including:
-  - 2 accepted _Difficulty: Medium_ PRs
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
-- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
+- **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**:
+  - Only those PRs are accepted which are marked with the 'Hacktoberfest' label and they have added difficulty level to each issue.
+  - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
+  - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) and check out their [swag tweet](https://twitter.com/BagistoShop/status/1447470920650477571).
 
-#### **Devfolio** (T-shirt, stickers)
+#### **Bitrise** (magnet, socks, plushie)
 
-- **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION T-shirts!
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
-- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+- **Requirements**: Contribute to [an eligible repo](https://github.com/bitrise-steplib) during the month of October to any of their open issues labeled Hacktoberfest.
+- **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
+- **How to sign up**: Check out the [Bitrise Hacktoberfest 2021 website](https://www.bitrise.io/hacktoberfest-2021) for more details.
+- **Notes**:
+  - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
+  - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
 
-#### **Flutterwave.com** (T-shirt)
+#### **CodeSee** (Sweatshirt, T-shirt, stickers)
 
-- **Requirements**: Contribute two or more merged PRs to any of [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
+- **Requirements**: 4 or 7 pull requests in any project listed on [OSS Port](https://www.oss-port.com/)
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **How to sign up**: [OSS Port Hacktoberfest Website](https://www.oss-port.com/swag/)
+- **Notes**: For your PR to count it must be:
+  - Quality PR's submitted in any project listed on [OSS Port](https://www.oss-port.com/), AND
+  - The PR is labelled as ```hacktoberfest-accepted```
+
+#### **Creative Tim** (T-shirt)
+
+- **Requirements**: 4 approved pull requests in any projects listed on [Creative Tim's Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/)
 - **Swag**: T-shirt
-- **How to sign up**: Fill the [google form here](https://docs.google.com/forms/d/e/1FAIpQLScA4kb53bbkTvTUp7MOnfDNsBzjT2jVfwH0Vkd2XrEqL8r1ZQ/viewform), and create at least two merged pull requests to [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
-- **Notes**: See this tweet for their [official announcement](https://twitter.com/Ace_KYD/status/1183738026511519745)
+- **How to sign up**: Check out the [Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/) for participation details.
+- **Notes**: The winners will be decided by drawing lots on 1st November 2021 and announced through the [Twitter Post](https://twitter.com/CreativeTim/status/1445731588369621003/)
 
-#### **Operation Code** (Stickers)
-
-- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
-- **Swag**: Stickers.
-- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
-- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
-
-#### **Operation Code** (T-shirt)
-
-- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
-- **Swag**: T-shirt.
-- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
-- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
-
-#### **Parity** (Gym bag)
-
-- **Requirements**: Finish any of the projects or submit 4 PRs for issues tagged with hacktoberfest.
-- **Swag**: Gym bag
-- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
-- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
-
-### 5 Merged PRs
-
-#### **Accord Project** (T-shirt, stickers)
-
-- **Requirements**: There are several ways to earn a shirt, including:
-  - 5 accepted _Difficulty: Starter_ PRs
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
-- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
-
-#### **Adobe** (T-shirt, other swags)
-
-- **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
-- **Swag**: T-shirt, other swags
-- **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
-- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
-
-#### **Coding Blocks** (Stickers, bag)
+#### **Flyte** (Mugs, T-Shirts, Vouchers)
 
 - **Requirements**:
-  - 5+ merged pull requests: bag
-- **Swag**: Wildcraft bag
-- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
-- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
+  - 2 merged/accepted PRs: Flyte Mug
+  - 3+ merged/accepted PRs or a blog/video: Flyte T-Shirt
+  - Full-fledged flytekit integration or a blog: Voucher or The North Face® jacket
+- **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#hacktoberfest2021` channel if you have any questions.
+- **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
+- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info.
 
-#### **JabRef** (T-shirt)
+#### **Medusa** (T-shirt)
 
-- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
+- **Requirements**: Contribute to [open hacktoberfest issues](https://github.com/medusajs).
+- **Swag**: Medusa t-shirt, hoodie.
+  - **Three pull requests**  - Medusa t-shirt
+  - **Build a Plugin (issues labeled with plugin)**  - Complete Medusa pack (t-shirt, hoodie, sticker)
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
+
+#### **MeiliSearch** (water bottle, stickers)
+
+- **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
+- **Swag**: reusable insulated water bottle, stickers
+- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
+- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+
+#### **Milvus** (a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt only for the first 50 participants)
+
+- **Requirements**: 2+ pull requests merged.
+- **Swag**: a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
+- #### **MindsDB** (t-shirt, stickers, possible laptop)
+
+- **Requirements**: Contribute with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest.
+  - Documentation PR [1 point]
+  - Data-sets to public suite PR [1 point]
+  - Tutorials PR [3 points]
+  - Data sources integrations PR [5 points]
+  - API optimization PR [5 points]
+- **Swag**: t-shirt, stickers, laptop
+- **How to sign up**: Check out the [official website](https://mindsdb.com/hacktoberfest/).
+- **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: Check out the [official website](https://mindsdb.com/hacktoberfest/) for more info.
+
+#### **Symbl.ai** (T-shirt)
+
+- **Requirements**: Anyone who creates a new issue, works on existing issues with more than one PR merged.
 - **Swag**: T-shirt
-- **How to sign up**: Provide shipping address, it not yet clarified how.
-- **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
+- **How to sign up**: Register for Hacktoberfest, join the [Slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel, and contribute through GitHub.
+- **Issues**:
+  - Symbl.ai [docs](https://github.com/symblai/symbl-docs/issues)
+  - Symbl.ai [Symbl-powered-Agora-RTE-app](https://github.com/symblai/Symbl-powered-Agora-RTE-app/issues)
+  - Symbl.ai [symbl-twilio-video-react](https://github.com/symblai/symbl-twilio-video-react/issues)
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
+  - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
-#### **Valor Software** (Pen, sticker, notepad, wooden phone stand)
+#### **ToolJet**(ToolJet Stickers, t-shirt, water bottle)
 
 - **Requirements**:
-  - Pen, sticker, notepad and wooden phone stand: create five pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
-- **Swag**: Pen, sticker, notepad, wooden phone stand
-- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
-- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+  - 3 valid PRs for ToolJet stickers, T-shirt, water bottle
+  - 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle
+- **Swag**: T-shirt, stickers, water-bottle, hoodie
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
+
+#### **Zup** (t-shirt)
+
+- **Requirements**: Track your contributions to ensure 2 pull requests are accepted in one of the projects.
+- **Swag**: T-Shirt
+- **How to sign up**: Submit your PRs to Zup's Open Source projects' issues. For Zup projects, upon approval of the PRs you will receive a form and can request the shirt if you already have 2 pull requests approved in one of the Zup projects: Charles CD, Ritchie CLI, Beagle or Horusec.
+- **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
+- **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
+
+### 5 or more Merged PRs
+
+#### **Appsmith** (Surprise Box)
+
+- **Requirements**: Create five or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 5+ merged PR: Surprise Box
+- **Swag**: Surprise Box
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **DagsHub** (T-Shirt)
+
+- **Requirements**:
+  - Get a T-shirt if you create 10+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **Swag**: T-Shirt
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
+
+#### **ToolJet**(Surprise Gift along with all goodies)
+
+- **Requirements**:
+  - More than 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle and surprise gift
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - Additionally, ToolJet will select top contributors to receive special prizes.
+  - More Details can be found.[Here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### Top Contributors
 
-#### **MayaData** (Laptop)
+#### **ArchivesSpace** (ArchivesSpace Swag Bag)
 
-- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
-- **Swag**: Laptop
-- **How to sign up**: Not clarified by now.
-- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
+- **Requirements**: Become the top contributor.
+- **Swag**: ArchivesSpace Swag Bag.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
 
-#### **Python Discord** (T-shirt, 1 year JetBrains product license)
+#### **AutoDL** (T-shirt, stickers, bonus swag)
 
-- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest T-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
-- **Swag**: T-shirt or a 1 year JetBrains product license
-- **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
-- **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
+- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL repositories](https://github.com/Auto-DL/Auto-DL).
+- **Swag**: T-shirt, stickers, bonus swag
+- **How to sign up**: Join AutoDL's [Slack](https://join.slack.com/t/autodl/shared_invite/zt-qagxiwub-ywRM_oBvvF~F7YNtlBqy_Q) Workspace and start contributing!
+- **Issues**: Check out the Issues at [Auto-DL/Auto-DL](https://github.com/Auto-DL/Auto-DL/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)!
+- **Notes**:
+  - For more details, read [this blog](https://dev.to/mctechie/autodl-celebrates-hacktoberfest-2021-25da)!
+  - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
+  - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
 
-#### **SAP** (Book)
-
-- **Requirements**: The highest number of reviewed pull requests to [any of the repositories](https://github.com/search?q=state:open+type:issue+language:abap) written in [Advanced Business Application Programming (ABAP)](https://en.wikipedia.org/wiki/ABAP).
-- **Swag**: Book from [SAP Press](https://www.sap-press.com)
-- **How to sign up**: Not yet clarified
-- **Notes**: More details in [their blog post](https://blogs.sap.com/2019/10/04/lets-code-share-and-learn.-calling-abapers-to-next-edition-of-hacktoberfest/).
-
-#### **Software Mansion** (Stickers, App.js Conf discount code, notebook, and/or t-shirt)
-
-- **Requirements**: If your contribution to [React Navigation Repositories](https://github.com/react-navigation) is recognised by Software Mansion as important, you will receive three, or all four of these items.
-- **Swag**: Stickers, App.js Conf discount code, notebook, t-shirt
-- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation)
-- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
-
-#### **Xamarin (Stickers, T-shirt, and possibly a trophy)**
+#### **Datenanfragen.de e. V.** (T-shirt)
 
 - **Requirements**:
-  - Stickers, T-shirt, and trophy: Submit 10 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
-- **Swag**: Stickers, T-shirt, and eligible to win a trophy (only 10 available)
-- **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
-- **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
+  - T-shirts are given out for the 10 best contributions as chosen by the maintainers.
+- **Swag**: At least 3 stickers and a webcam cover (see above);  T-shirt for top contributors.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
-Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
+#### **Mattermost** (Custom mechanical keyboard)
+
+- **Requirements**: Top contributors will receive a custom mechanical keyboard.
+- **Swag**: Custom mechanical keyboard
+- **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **MayaData & OpenEBS** (Oculus VR Headset)
+
+- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
+- **How to sign up**: No additional sign up is required.
+- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
+
+#### **Milvus** (A Logitech Pro X Keyboard and a physical Hacktoberfest badge, or a DJI drone)
+
+- **Requirements**:
+  - A Logitech Pro X Keyboard and a physical Hacktoberfest badge if recognized as Top Contributor (Best Quality PR).
+  - A DJI Drone if you complete at least 1 PR merged with the issue tagged #advanced and is awarded the Grand Prize (Most Difficult PR).
+- **Swag**: A Logitech Pro X Keyboard and a physical Hacktoberfest badge, or a DJI drone.
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
+#### **Supabase** (Unnamed swag, possibly t-shirt)
+
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of their supabase-community projects that have the Hacktoberfest topic and submit your contribution by Oct 10, 2021.
+- **Swag**: Some limited edition Supabase swag, possibly t-shirt based on reward from last year.
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
+#### **ToolJet**(Special prizes)
+
+- **Requirements**: Become a top contibuter.
+- **Swag**: Special prizes
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
+
+---
+
+*Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
+
+![Presented by DigitalOcean](img/logo-hacktoberfest-full-2021.svg)
+
+---
+
+If you're looking for the Swag List from 2018,  2019, or 2020 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), and [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020) branches.
